@@ -7,3 +7,8 @@ list
 * One
 * Two
 * Three
+* Four
+
+````
+test_this_command
+````
